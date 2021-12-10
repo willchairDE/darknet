@@ -1,0 +1,5 @@
+classes = 5
+train = /content/drive/MyDrive/Yolo4/train.txt
+valid = /content/drive/MyDrive/Yolo4/test.txt
+names = C:/Users/good/Desktop/darknet-master/darknet-master/data/obj.names
+backup = /content/drive/MyDrive/Yolo4/backup/
